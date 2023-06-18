@@ -2,4 +2,5 @@
 <ol tye="1">
 <li>Stack using singly linked list</li>
 <li>Queue using singly linked list</li>
+<li>Binary Tree using singly linked list</li>
 </ol>
